@@ -28,8 +28,8 @@
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/choirulanam-cybersec/FScan-v3.2-.git
-cd fscan
+https://github.com/choirulanam-cybersec/FScan-v1.0.git
+cd 
 
 2.Install Requirements
 
